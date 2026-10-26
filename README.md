@@ -1,8 +1,8 @@
-# Hi, I'm Alexander 👋
+# Hey, I'm Alex / GLRP 👋
 
-I own and run **[Nano Tech Services](https://nanotech.it.com)**, a small PC repair business. Most of my day goes to fixing, upgrading and cleaning up computers. In my spare time I build free, open-source Windows apps, usually to fix a problem I keep running into myself.
+I own and run **[Nano Tech Services](https://nanotech.it.com)**, a small PC & Phone repair business.
 
-All of my apps are **free, ad-free and open source**. They keep your data on your own computer.
+All of my apps are **free, ad-free and open source**. They keep your data on your own computer. I primarily make my projects vibe-coding or with the assistance of Claude / other ai tools.
 
 ## Projects
 
@@ -20,13 +20,6 @@ A calm, all-in-one organizer for Windows: notes, calendar, customers, tickets, m
 An ad-free companion app for Rainbow Six Siege: live lobby stats, operator analytics and pick recommendations based on your own roster.
 
 [![Release](https://img.shields.io/github/v/release/GLr-P/RainbwStats?include_prereleases&label=release)](https://github.com/GLr-P/RainbwStats/releases) · Electron / React / TypeScript · [Website](https://glr-p.github.io/RainbwStats/)
-
-## About me
-
-- 🔧 PC repair technician and small business owner
-- 🎮 I play a lot of Rainbow Six Siege (that's where RainbwStats came from)
-- 🤖 I build my apps with the help of AI coding tools, and I'm learning as I go
-- 💡 I like software that's simple, private and free
 
 ## Get in touch
 
