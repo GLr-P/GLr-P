@@ -16,10 +16,12 @@ A calm, all-in-one organizer for Windows: notes, calendar, customers, tickets, m
 
 [![Latest release](https://img.shields.io/github/v/release/GLr-P/plannr?label=latest%20release)](https://github.com/GLr-P/plannr/releases/latest) · Electron / React / TypeScript · [Website](https://glr-p.github.io/plannr/)
 
-### 🎯 [RainbwStats](https://github.com/GLr-P/RainbwStats)
+### 🎯 [RainbwStats](https://github.com/GLr-P/RainbwStats) (deprecated)
 An ad-free companion app for Rainbow Six Siege: live lobby stats, operator analytics and pick recommendations based on your own roster.
 
-[![Release](https://img.shields.io/github/v/release/GLr-P/RainbwStats?include_prereleases&label=release)](https://github.com/GLr-P/RainbwStats/releases) · Electron / React / TypeScript · [Website](https://glr-p.github.io/RainbwStats/)
+> **No longer maintained.** Updating it further would need Overwolf's permission, so I've stopped working on it. The last release stays available as it is.
+
+![Deprecated](https://img.shields.io/badge/status-deprecated-lightgrey) [![Last release](https://img.shields.io/github/v/release/GLr-P/RainbwStats?include_prereleases&label=last%20release&color=lightgrey)](https://github.com/GLr-P/RainbwStats/releases/latest) · Electron / React / TypeScript · [Website](https://glr-p.github.io/RainbwStats/)
 
 ## Get in touch
 
