@@ -14,7 +14,7 @@ A portable, all-in-one Windows diagnostic tool for technicians: the first thing 
 ### 🗂️ [Plannr](https://github.com/GLr-P/plannr)
 A calm, all-in-one organizer for Windows: notes, calendar, customers, tickets, money and a locked vault in one app. It's built for small businesses and busy people who want everything in one place, and your data stays on your computer.
 
-[![Release](https://img.shields.io/github/v/release/GLr-P/plannr?include_prereleases&label=release)](https://github.com/GLr-P/plannr/releases) · Electron / React / TypeScript · [Website](https://glr-p.github.io/plannr/)
+[![Latest release](https://img.shields.io/github/v/release/GLr-P/plannr?label=latest%20release)](https://github.com/GLr-P/plannr/releases/latest) · Electron / React / TypeScript · [Website](https://glr-p.github.io/plannr/)
 
 ### 🎯 [RainbwStats](https://github.com/GLr-P/RainbwStats)
 An ad-free companion app for Rainbow Six Siege: live lobby stats, operator analytics and pick recommendations based on your own roster.
