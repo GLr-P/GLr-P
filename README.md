@@ -16,6 +16,11 @@ A calm, all-in-one organizer for Windows: notes, calendar, customers, tickets, m
 
 [![Latest release](https://img.shields.io/github/v/release/GLr-P/plannr?label=latest%20release)](https://github.com/GLr-P/plannr/releases/latest) · Electron / React / TypeScript · [Website](https://glr-p.github.io/plannr/)
 
+### 🌱 [SeedFindr](https://github.com/GLr-P/SeedFindr) (in development)
+Hunts random Minecraft Java seeds and finds the strange, rare, broken and speedrun-worthy ones nobody has posted yet: merged structures, worlds with no End island, absurd spawns, great 1.16.1 speedrun seeds.
+
+![Status](https://img.shields.io/badge/status-in%20development-blue) · C / Electron / React / TypeScript
+
 ### 🎯 [RainbwStats](https://github.com/GLr-P/RainbwStats) (deprecated)
 An ad-free companion app for Rainbow Six Siege: live lobby stats, operator analytics and pick recommendations based on your own roster.
 
